@@ -1,0 +1,9 @@
+{
+  "arm": "dpo",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "n_steps": 5000,
+  "n_samples": 16000,
+  "seed": 42,
+  "losses_first": 0.6943,
+  "losses_last": 0
+}

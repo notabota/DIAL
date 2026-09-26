@@ -1,0 +1,187 @@
+{
+  "temperature_T_by_arm": "see per_arm",
+  "aggregate": {
+    "n_pairs": 375,
+    "violations": 0,
+    "obs_mean_slope": 0.029011568022701474,
+    "obs_max_slope": 0.3848744332790375,
+    "predicted_mean_slope": 0.11070945410728456
+  },
+  "per_arm": {
+    "imra_r16_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09964647144079208,
+      "obs_mean": 0.028570770621299747,
+      "predicted": 0.10097155570983887,
+      "violations": 0
+    },
+    "imra_r4_recovery_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09962944686412811,
+      "obs_mean": 0.028565889994303383,
+      "predicted": 0.10095430612564087,
+      "violations": 0
+    },
+    "imra_s42_LLAMA_primary_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09947409480810165,
+      "obs_mean": 0.028521347443262735,
+      "predicted": 0.10079689025878906,
+      "violations": 0
+    },
+    "imra_s42_LLAMA_recovery_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09947409480810165,
+      "obs_mean": 0.028521347443262735,
+      "predicted": 0.10079689025878906,
+      "violations": 0
+    },
+    "imra_s43_LLAMA_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09942855685949326,
+      "obs_mean": 0.02850829018486871,
+      "predicted": 0.10075074434280396,
+      "violations": 0
+    },
+    "imra_s44_LLAMA_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09933871030807495,
+      "obs_mean": 0.028482529719670614,
+      "predicted": 0.10065970420837403,
+      "violations": 0
+    },
+    "imra_s44_LLAMA_v2_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09933871030807495,
+      "obs_mean": 0.028482529719670614,
+      "predicted": 0.10065970420837403,
+      "violations": 0
+    },
+    "imra_s45_LLAMA_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09943842887878418,
+      "obs_mean": 0.028511120743221707,
+      "predicted": 0.10076074600219727,
+      "violations": 0
+    },
+    "imra_s46_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.0994257926940918,
+      "obs_mean": 0.028507483469115365,
+      "predicted": 0.10074794292449951,
+      "violations": 0
+    },
+    "imra_unknown_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09964647144079208,
+      "obs_mean": 0.028570770621299747,
+      "predicted": 0.10097155570983887,
+      "violations": 0
+    },
+    "llama70b_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09932239353656769,
+      "obs_mean": 0.028477850821283127,
+      "predicted": 0.10064316987991333,
+      "violations": 0
+    },
+    "mistral_imra_v2_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09961862117052078,
+      "obs_mean": 0.02856278618176778,
+      "predicted": 0.1009433388710022,
+      "violations": 0
+    },
+    "nsteps10k_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09964964538812637,
+      "obs_mean": 0.028571681181589762,
+      "predicted": 0.10097477436065674,
+      "violations": 0
+    },
+    "p4_bench_compute_eff_35596291_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09964647144079208,
+      "obs_mean": 0.028570770621299747,
+      "predicted": 0.10097155570983887,
+      "violations": 0
+    },
+    "p4_imra_r4_35573559_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09962944686412811,
+      "obs_mean": 0.028565889994303383,
+      "predicted": 0.10095430612564087,
+      "violations": 0
+    },
+    "phi3_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.10090319067239761,
+      "obs_mean": 0.0289310966597663,
+      "predicted": 0.10224498510360717,
+      "violations": 0
+    },
+    "prefix_tuning_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09935353696346283,
+      "obs_mean": 0.028486780259344313,
+      "predicted": 0.10067472457885743,
+      "violations": 0
+    },
+    "prefix_v3_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09945336729288101,
+      "obs_mean": 0.0285154038005405,
+      "predicted": 0.10077588558197022,
+      "violations": 0
+    },
+    "qwen_imra_s42_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09946335852146149,
+      "obs_mean": 0.028518268201086258,
+      "predicted": 0.10078600645065308,
+      "violations": 0
+    },
+    "sigma_frozen_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09868766367435455,
+      "obs_mean": 0.0282958604892095,
+      "predicted": 0.1,
+      "violations": 0
+    },
+    "t15_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.03359655663371086,
+      "obs_mean": 0.012976809700330098,
+      "predicted": 0.03364630937576294,
+      "violations": 0
+    },
+    "t1_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.3848744332790375,
+      "obs_mean": 0.07965220345391169,
+      "predicted": 0.5053536891937256,
+      "violations": 0
+    },
+    "t50_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.010114967823028564,
+      "obs_mean": 0.004882571826378505,
+      "predicted": 0.010116316080093384,
+      "violations": 0
+    },
+    "ultrafeedback_imra_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09942112863063812,
+      "obs_mean": 0.028506161239412093,
+      "predicted": 0.1007432222366333,
+      "violations": 0
+    },
+    "ultrafeedback_imra_relog_csweep": {
+      "n_pairs": 15,
+      "obs_max": 0.09951469302177429,
+      "obs_mean": 0.028532986177338494,
+      "predicted": 0.10083802938461303,
+      "violations": 0
+    }
+  }
+}

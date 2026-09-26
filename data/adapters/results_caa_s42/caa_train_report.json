@@ -1,0 +1,8 @@
+{
+  "arm": "caa",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "layer": 16,
+  "n_pairs": 1000,
+  "seed": 42,
+  "direction_norm": 0.8710871338844299
+}

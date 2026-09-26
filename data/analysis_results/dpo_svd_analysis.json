@@ -1,0 +1,51 @@
+{
+  "results_imra_s42": {
+    "shape": [
+      4096,
+      4096
+    ],
+    "singular_values_top10": [
+      9.624714851379395,
+      4.184297561645508,
+      3.924373149871826,
+      3.646251678466797,
+      3.5204966068267822,
+      3.3998818397521973,
+      3.3614912033081055,
+      3.2553811073303223,
+      3.1378586292266846,
+      3.080277442932129
+    ],
+    "rank_99pct": 3145,
+    "condition_number": 14835.69921875,
+    "effective_rank": 2364.83740234375
+  },
+  "results_dpo_imra_s42": {
+    "shape": [
+      4096,
+      4096
+    ],
+    "singular_values_top10": [
+      6.736070156097412,
+      4.57925271987915,
+      3.9376649856567383,
+      3.5993435382843018,
+      3.4251182079315186,
+      3.380556106567383,
+      3.1434383392333984,
+      3.100677728652954,
+      3.0356500148773193,
+      2.9841744899749756
+    ],
+    "rank_99pct": 3149,
+    "condition_number": 21327.931640625,
+    "effective_rank": 2417.077880859375
+  },
+  "spectral_analysis": {
+    "leading_sv_ratio_base": 2.3001984704917593,
+    "leading_sv_ratio_dpo": 1.4709976863376044,
+    "sv0_pct_change": -30.012782091596073,
+    "sv1_9_pct_change": -1.0296093448149242,
+    "interpretation": "DPO suppresses primary D direction by 30%, secondary directions stable. Principal component diffusion, not rank collapse."
+  }
+}

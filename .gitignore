@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
 runs/
-judge_cache.json
+/judge_cache.json
 .env

@@ -1,0 +1,11 @@
+{
+  "arm": "dpo_imra",
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "seed": 42,
+  "n_sft_steps": 2500,
+  "n_dpo_steps": 2500,
+  "sft_first": 2.774501323699951,
+  "sft_last": 1.7022565603256226,
+  "dpo_first": 0.693644642829895,
+  "dpo_last": 0.30535268783569336
+}

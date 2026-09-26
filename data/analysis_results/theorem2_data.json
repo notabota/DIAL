@@ -1,0 +1,1124 @@
+{
+  "imra_r16": [
+    {
+      "file": "imra_r16_csweep.json",
+      "arm_family": "r=16",
+      "sigma_g_max": 0.5048577785491943,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09964647144079208,
+          "max_linf": 0.09964647144079208,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4866968095302582,
+          "max_linf": 0.4866968095302582,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_r4": [
+    {
+      "file": "imra_r4_recovery_csweep.json",
+      "arm_family": "r=4",
+      "sigma_g_max": 0.5047715306282043,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09962944686412811,
+          "max_linf": 0.09962944686412811,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4866136908531189,
+          "max_linf": 0.4866136908531189,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "p4_imra_r4_35573559_imra_csweep.json",
+      "arm_family": "r=4",
+      "sigma_g_max": 0.5047715306282043,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09962944686412811,
+          "max_linf": 0.09962944686412811,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4866136908531189,
+          "max_linf": 0.4866136908531189,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5047715306282043,
+          "max_linf": 0.5047715306282043,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_8b": [
+    {
+      "file": "imra_s42_LLAMA_primary_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5039844512939453,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09947409480810165,
+          "max_linf": 0.09947409480810165,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4858549237251282,
+          "max_linf": 0.4858549237251282,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s42_LLAMA_recovery_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5039844512939453,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09947409480810165,
+          "max_linf": 0.09947409480810165,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4858549237251282,
+          "max_linf": 0.4858549237251282,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5039844512939453,
+          "max_linf": 0.5039844512939453,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s43_LLAMA_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5037537217140198,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09942855685949326,
+          "max_linf": 0.09942855685949326,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4856324791908264,
+          "max_linf": 0.4856324791908264,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5037537217140198,
+          "max_linf": 0.5037537217140198,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5037537217140198,
+          "max_linf": 0.5037537217140198,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5037537217140198,
+          "max_linf": 0.5037537217140198,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s44_LLAMA_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5032985210418701,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09933871030807495,
+          "max_linf": 0.09933871030807495,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.48519366979599,
+          "max_linf": 0.48519366979599,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s44_LLAMA_v2_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5032985210418701,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09933871030807495,
+          "max_linf": 0.09933871030807495,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.48519366979599,
+          "max_linf": 0.48519366979599,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5032985210418701,
+          "max_linf": 0.5032985210418701,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s45_LLAMA_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5038037300109863,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09943842887878418,
+          "max_linf": 0.09943842887878418,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4856806993484497,
+          "max_linf": 0.4856806993484497,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5038037300109863,
+          "max_linf": 0.5038037300109863,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5038037300109863,
+          "max_linf": 0.5038037300109863,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5038037300109863,
+          "max_linf": 0.5038037300109863,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "imra_s46_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5037397146224976,
+      "sat_ratio": 0.999999487261404,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09942574302355449,
+          "max_linf": 0.0994257926940918,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4856187403202057,
+          "max_linf": 0.4856189787387848,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5037394563357035,
+          "max_linf": 0.5037397146224976,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5037394563357035,
+          "max_linf": 0.5037397146224976,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5037394563357035,
+          "max_linf": 0.5037397146224976,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "qwen_imra_s42_csweep.json",
+      "arm_family": "DIAL-8B",
+      "sigma_g_max": 0.5039300322532654,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09946335852146149,
+          "max_linf": 0.09946335852146149,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.48580244183540344,
+          "max_linf": 0.48580244183540344,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5039300322532654,
+          "max_linf": 0.5039300322532654,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5039300322532654,
+          "max_linf": 0.5039300322532654,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5039300322532654,
+          "max_linf": 0.5039300322532654,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "other": [
+    {
+      "file": "imra_unknown_csweep.json",
+      "arm_family": "other",
+      "sigma_g_max": 0.5048577785491943,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09964647144079208,
+          "max_linf": 0.09964647144079208,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4866968095302582,
+          "max_linf": 0.4866968095302582,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "p4_bench_compute_eff_35596291_imra_csweep.json",
+      "arm_family": "other",
+      "sigma_g_max": 0.5048577785491943,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09964647144079208,
+          "max_linf": 0.09964647144079208,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4866968095302582,
+          "max_linf": 0.4866968095302582,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5048577785491943,
+          "max_linf": 0.5048577785491943,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "t15_imra_csweep.json",
+      "arm_family": "other",
+      "sigma_g_max": 0.5046946406364441,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.03359655663371086,
+          "max_linf": 0.03359655663371086,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.2941274046897888,
+          "max_linf": 0.2941274046897888,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5046930313110352,
+          "max_linf": 0.5046930313110352,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5046946406364441,
+          "max_linf": 0.5046946406364441,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5046946406364441,
+          "max_linf": 0.5046946406364441,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "t1_imra_csweep.json",
+      "arm_family": "other",
+      "sigma_g_max": 0.5053536891937256,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.3848744332790375,
+          "max_linf": 0.3848744332790375,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.5053536891937256,
+          "max_linf": 0.5053536891937256,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5053536891937256,
+          "max_linf": 0.5053536891937256,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5053536891937256,
+          "max_linf": 0.5053536891937256,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5053536891937256,
+          "max_linf": 0.5053536891937256,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "t50_imra_csweep.json",
+      "arm_family": "other",
+      "sigma_g_max": 0.5058158040046692,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.010114967823028564,
+          "max_linf": 0.010114967823028564,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.09983555227518082,
+          "max_linf": 0.09983555227518082,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.48762038350105286,
+          "max_linf": 0.48762038350105286,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5058158040046692,
+          "max_linf": 0.5058158040046692,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5058158040046692,
+          "max_linf": 0.5058158040046692,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_70b": [
+    {
+      "file": "llama70b_imra_csweep.json",
+      "arm_family": "DIAL-70B",
+      "sigma_g_max": 0.5032158493995667,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09932239353656769,
+          "max_linf": 0.09932239353656769,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4851139485836029,
+          "max_linf": 0.4851139485836029,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5032158493995667,
+          "max_linf": 0.5032158493995667,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5032158493995667,
+          "max_linf": 0.5032158493995667,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5032158493995667,
+          "max_linf": 0.5032158493995667,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_mistral": [
+    {
+      "file": "mistral_imra_v2_csweep.json",
+      "arm_family": "DIAL-Mistral",
+      "sigma_g_max": 0.504716694355011,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09961862117052078,
+          "max_linf": 0.09961862117052078,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4865608215332031,
+          "max_linf": 0.4865608215332031,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.504716694355011,
+          "max_linf": 0.504716694355011,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.504716694355011,
+          "max_linf": 0.504716694355011,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.504716694355011,
+          "max_linf": 0.504716694355011,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_10k": [
+    {
+      "file": "nsteps10k_imra_csweep.json",
+      "arm_family": "10k steps",
+      "sigma_g_max": 0.5048738718032837,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09964964538812637,
+          "max_linf": 0.09964964538812637,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.48671233654022217,
+          "max_linf": 0.48671233654022217,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5048738718032837,
+          "max_linf": 0.5048738718032837,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5048738718032837,
+          "max_linf": 0.5048738718032837,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5048738718032837,
+          "max_linf": 0.5048738718032837,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_phi3": [
+    {
+      "file": "phi3_imra_csweep.json",
+      "arm_family": "DIAL-Phi-3",
+      "sigma_g_max": 0.5112249255180359,
+      "sat_ratio": 0.9999998834081795,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.10090318322181702,
+          "max_linf": 0.10090319067239761,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4928348859151204,
+          "max_linf": 0.4928349256515503,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5112248659133911,
+          "max_linf": 0.5112249255180359,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5112248659133911,
+          "max_linf": 0.5112249255180359,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5112248659133911,
+          "max_linf": 0.5112249255180359,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "prefix": [
+    {
+      "file": "prefix_tuning_imra_csweep.json",
+      "arm_family": "Prefix",
+      "sigma_g_max": 0.5033736228942871,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09935353696346283,
+          "max_linf": 0.09935353696346283,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4852660596370697,
+          "max_linf": 0.4852660596370697,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5033736228942871,
+          "max_linf": 0.5033736228942871,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5033736228942871,
+          "max_linf": 0.5033736228942871,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5033736228942871,
+          "max_linf": 0.5033736228942871,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "prefix_v3_csweep.json",
+      "arm_family": "Prefix",
+      "sigma_g_max": 0.5038794279098511,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09945336729288101,
+          "max_linf": 0.09945336729288101,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4857536554336548,
+          "max_linf": 0.4857536554336548,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5038794279098511,
+          "max_linf": 0.5038794279098511,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5038794279098511,
+          "max_linf": 0.5038794279098511,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5038794279098511,
+          "max_linf": 0.5038794279098511,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "sigma_frozen": [
+    {
+      "file": "sigma_frozen_imra_csweep.json",
+      "arm_family": "\u03c3-frozen",
+      "sigma_g_max": 0.5,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09868766367435455,
+          "max_linf": 0.09868766367435455,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4820137917995453,
+          "max_linf": 0.4820137917995453,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5,
+          "max_linf": 0.5,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5,
+          "max_linf": 0.5,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5,
+          "max_linf": 0.5,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ],
+  "imra_uf": [
+    {
+      "file": "ultrafeedback_imra_csweep.json",
+      "arm_family": "UltraFeedback",
+      "sigma_g_max": 0.5037161111831665,
+      "sat_ratio": 1.0,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09942112863063812,
+          "max_linf": 0.09942112863063812,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.485596239566803,
+          "max_linf": 0.485596239566803,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5037161111831665,
+          "max_linf": 0.5037161111831665,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5037161111831665,
+          "max_linf": 0.5037161111831665,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5037161111831665,
+          "max_linf": 0.5037161111831665,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    },
+    {
+      "file": "ultrafeedback_imra_relog_csweep.json",
+      "arm_family": "UltraFeedback",
+      "sigma_g_max": 0.5041901469230652,
+      "sat_ratio": 0.9999999605938056,
+      "per_c": {
+        "0.0": {
+          "mean_linf": 0.0,
+          "max_linf": 0.0,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1.0": {
+          "mean_linf": 0.09951468805472057,
+          "max_linf": 0.09951469302177429,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10.0": {
+          "mean_linf": 0.4860531787077586,
+          "max_linf": 0.4860531985759735,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "100.0": {
+          "mean_linf": 0.5041901270548502,
+          "max_linf": 0.5041901469230652,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "1000.0": {
+          "mean_linf": 0.5041901270548502,
+          "max_linf": 0.5041901469230652,
+          "n": 3,
+          "all_within_bound": true
+        },
+        "10000.0": {
+          "mean_linf": 0.5041901270548502,
+          "max_linf": 0.5041901469230652,
+          "n": 3,
+          "all_within_bound": true
+        }
+      }
+    }
+  ]
+}

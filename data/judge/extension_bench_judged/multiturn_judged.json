@@ -1,0 +1,186 @@
+{
+  "multiturn_imra_s42": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.6,
+        "partial_rate": 0.1,
+        "comply_rate": 0.3,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.9,
+        "partial_rate": 0.05,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_imra_s43": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.65,
+        "partial_rate": 0.1,
+        "comply_rate": 0.25,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.9,
+        "partial_rate": 0.05,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_imra_s45": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.65,
+        "partial_rate": 0.05,
+        "comply_rate": 0.3,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.95,
+        "partial_rate": 0.0,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_imra_s46": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.75,
+        "partial_rate": 0.1,
+        "comply_rate": 0.15,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.95,
+        "partial_rate": 0.0,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_imra_t50": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.8,
+        "partial_rate": 0.05,
+        "comply_rate": 0.15,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.9,
+        "partial_rate": 0.05,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_nsteps10k": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_t1_imra": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.85,
+        "partial_rate": 0.1,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.9,
+        "partial_rate": 0.05,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  },
+  "multiturn_ultrafeedback": {
+    "arm": "imra",
+    "t3_refusal_by_c_judged": {
+      "-5": {
+        "refusal_rate": 0.6,
+        "partial_rate": 0.1,
+        "comply_rate": 0.3,
+        "n": 20
+      },
+      "0": {
+        "refusal_rate": 0.95,
+        "partial_rate": 0.0,
+        "comply_rate": 0.05,
+        "n": 20
+      },
+      "5": {
+        "refusal_rate": 1.0,
+        "partial_rate": 0.0,
+        "comply_rate": 0.0,
+        "n": 20
+      }
+    }
+  }
+}
